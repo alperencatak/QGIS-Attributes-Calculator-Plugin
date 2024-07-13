@@ -1,16 +1,5 @@
-![hacettepelogo](https://user-images.githubusercontent.com/118128475/236063922-22e54f0b-c8b7-43cc-8ad7-aa6767f380ec.png)
-
-# <p align="center"> GMT456<br />GIS Programming<br />
-
-♣ Alperen Çatak&emsp;|&ensp;21967373
-
----
-Collaboration with Uzay AYDEN
-
----
-
 # ツ Subject 
-Developing or producing a plugin on QGIS.
+Developing or producing a calculator of attributes plugin on QGIS.
 
 # ツ Data
 OpenStreetMap
