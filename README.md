@@ -7,15 +7,15 @@ OpenStreetMap
 # ツ Aim and objectives:
 <p align="justify">In this section, when we select a shapefile containing points, we created a section that calculates the distance between all points, calculates the maximum and minimum distances, and creates a new shapefile (temporary file, not saved) and adds these calculations to the attributes.</p>
 
-![image](https://github.com/GMT-456-GIS-Programming/midterm-project-alperencatak/assets/118128475/2107b744-7e4a-4ce9-80d4-84c73fe424f7)
+![1](https://github.com/user-attachments/assets/96d6b9ff-e853-4e33-90a3-dbebf613d397)
 
 <p align="justify">In this section, when we select a shapefile containing multiple lines, we created a section that calculates the shortest length and actual length by taking the start and end values ​​of all lines as reference</p>
 
-![image](https://github.com/GMT-456-GIS-Programming/midterm-project-alperencatak/assets/118128475/c72d9ddd-deea-4420-9538-8d0200162e7f)
+![2](https://github.com/user-attachments/assets/49ccd023-f3a0-4ab5-881a-372517964fb3)
 
 <p align="justify">In the last section, when we selected a shapefile containing polygons, we created a section that calculated the area of ​​all polygons in the file we selected.</p>
 
-![image](https://github.com/GMT-456-GIS-Programming/midterm-project-alperencatak/assets/118128475/3d0d9717-dffe-4e47-b571-14c731904484)
+![3](https://github.com/user-attachments/assets/1e0e4ddb-66e9-4c03-a9cc-794346c0887c)
 
 <p align="justify">Accessibility and layout are very important in improving GUI quality. The location of the buttons, the style and size of the texts and coloring are very important. Our priority should be that there are not too many buttons and that the buttons to be used should be easily understood.</p>
 
